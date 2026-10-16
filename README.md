@@ -122,6 +122,9 @@ Klasa: 2kp
 </p>
 
 <p>&copy; &reg; &#167; &#166; &#165; &#164; &#163; </p>
-
+<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
+<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
+<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
+<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
 </body>
 </html>
