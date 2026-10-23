@@ -126,5 +126,29 @@ Klasa: 2kp
 <A HREF="plik_sek.html"> wejdź do pliku </A> <br>
 <A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
 <A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
+    <a name="skok_poczatek_sek"></a> 
+ początek tekstu <br>
+<A HREF="walidacja_sek.html"> wejdź do walidacji </A> <br>
+<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
+<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
+<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
+<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
+
+<a href="#skok_poczatek_sek">kliknij aby skoczyć na początek tekstu</a>
+środek tekstu <br>
+<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
+<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
+<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
+<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
+
+<a href="#skok_poczatek_sek">kliknij aby skoczyć na początek tekstu</a>
+
+koniec tekstu <br>
+<A HREF="walidacja_sek.html"> wejdź do walidacji </A> <br>
+<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
+<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
+<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
+<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
+<a href="#skok_poczatek_sek">kliknij aby skoczyć na początek tekstu</a>
 </body>
 </html>
