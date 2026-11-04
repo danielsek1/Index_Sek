@@ -138,9 +138,6 @@ Klasa: 2kp
 <p>&copy; &reg; &#167; &#166; &#165; &#164; &#163; </p>
 
 
-<a href="#skok_poczatek_sek">kliknij aby skoczyć na początek tekstu</a>
-
-
 koniec tekstu <br>
 <A HREF="walidacja_sek.html"> wejdź do walidacji </A> <br>
 <A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
