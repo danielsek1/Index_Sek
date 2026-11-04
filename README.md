@@ -8,6 +8,13 @@
              <title>       </title> 
      </head> 
     <body> 
+		
+ początek tekstu <br>
+<A HREF="walidacja_sek.html"> wejdź do walidacji </A> <br>
+<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
+<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
+<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
+<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
 <p align="right"> <font color="blue" size="1" face="Arial"> Daniel </font> </p> <br> 
 <p align="right"> <font color="blue" size="2" face="Arial"> Daniel </font> </p> <br> 
 <p align="right"> <font color="blue" size="3" face="Arial"> Daniel </font> </p> <br> 
@@ -30,7 +37,7 @@
 </body>
 
 </html>
-<!DOCTYPE html> 
+<html> 
 <html lang="pl-PL"> 
 <html> 
      <head> 
@@ -54,9 +61,16 @@
 <p align="left"> <font color="black" size="5" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p>
 <br>
 <p align="left"> <font color="black" size="5" face="Arial"> x*x=x<sup>2</sup> </font> </p>
+		środek tekstu <br>
+<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
+<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
+<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
+<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
+
+<a href="#skok_poczatek_sek">kliknij aby skoczyć na początek tekstu</a>
     </body>
   </html>
-  <!DOCTYPE html>
+  <html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -122,26 +136,10 @@ Klasa: 2kp
 </p>
 
 <p>&copy; &reg; &#167; &#166; &#165; &#164; &#163; </p>
-<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
-<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
-<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
-<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
-    <a name="skok_poczatek_sek"></a> 
- początek tekstu <br>
-<A HREF="walidacja_sek.html"> wejdź do walidacji </A> <br>
-<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
-<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
-<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
-<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
+
 
 <a href="#skok_poczatek_sek">kliknij aby skoczyć na początek tekstu</a>
-środek tekstu <br>
-<A HREF="poczta_sek.html"> wejdź do poczty </A> <br>
-<A HREF="plik_sek.html"> wejdź do pliku </A> <br>
-<A HREF="tabela_sek.html"> wejdź do tabeli </A> <br>
-<A HREF="formularz_sek.html"> wejdź do formularzu </A> <br>
 
-<a href="#skok_poczatek_sek">kliknij aby skoczyć na początek tekstu</a>
 
 koniec tekstu <br>
 <A HREF="walidacja_sek.html"> wejdź do walidacji </A> <br>
